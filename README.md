@@ -1,6 +1,6 @@
 # Market Recommendation of Product Category based on Customer Segmentation
 
-This project construct under python3 environment and some of graph analysis run on the jupyter notebook for CSC 522 ALDA course project. To set up the enviornment please follow the steps.
+This project constructs under python3 environment and some of graph visuals on the jupyter notebook for CSC 522 ALDA course project. To set up the enviornment please follow the steps.
 
 ## Install Pyhton3 environment and jupyter notebook
 First, install python3 environment and jupyter notebook. It can be used either [homebrew](https://brew.sh/) or [anaconda](https://docs.anaconda.com/anaconda/install/).
